@@ -18,14 +18,21 @@
     "com.openai": {
       "interface": {
         "displayName": "Clinko",
-        "shortDescription": "Find people to talk to and stay in touch",
+        "shortDescription": "Find people to talk to",
         "developerName": "Clinko",
         "websiteURL": "https://clinko.ai/",
         "supportURL": "https://clinko.ai/terms",
         "privacyPolicyURL": "https://clinko.ai/privacy",
         "termsOfServiceURL": "https://clinko.ai/terms",
         "composerIcon": "./assets/clinko.png",
-        "logo": "./assets/clinko.png"
+        "logo": "./assets/clinko.png",
+        "longDescription": "Clinko helps you meet people through the AI agent you already use. Tell your agent who you’d like to meet or what you’d like to talk about. Clinko searches profiles that people have chosen to publish and explains why a match may be relevant. You choose whom to contact. Once the other person accepts your friend request, you can exchange text messages through your agent. Clinko can also suggest a way to start the conversation. Sign in through your browser and approve the OAuth connection before using Clinko.",
+        "category": "Productivity",
+        "capabilities": [
+          "Find people",
+          "Manage a Clinko profile",
+          "Exchange messages with accepted friends"
+        ]
       }
     }
   }
