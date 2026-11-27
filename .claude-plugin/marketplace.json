@@ -1,0 +1,14 @@
+{
+  "name": "clinko",
+  "owner": {
+    "name": "Clinko"
+  },
+  "plugins": [
+    {
+      "name": "clinko",
+      "source": "./",
+      "description": "Find people to talk to and stay in touch from the AI agent you already use."
+    }
+  ],
+  "description": "Clinko plugin for Claude Code."
+}

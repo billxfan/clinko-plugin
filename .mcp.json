@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "clinko": {
+      "type": "http",
+      "url": "https://clinko.ai/mcp"
+    }
+  }
+}

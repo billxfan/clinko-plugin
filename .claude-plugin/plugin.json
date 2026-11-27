@@ -1,0 +1,11 @@
+{
+  "name": "clinko",
+  "version": "0.4.2",
+  "description": "Find people to talk to and stay in touch from the AI agent you already use.",
+  "author": {
+    "name": "Clinko",
+    "url": "https://clinko.ai/"
+  },
+  "homepage": "https://clinko.ai/",
+  "repository": "https://github.com/billxfan/clinko-plugin"
+}

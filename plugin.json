@@ -1,0 +1,32 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "clinko",
+  "version": "0.4.2",
+  "description": "Find people to talk to and stay in touch from the AI agent you already use.",
+  "author": {
+    "name": "Clinko",
+    "url": "https://clinko.ai/"
+  },
+  "homepage": "https://clinko.ai/",
+  "repository": "https://github.com/billxfan/clinko-plugin",
+  "keywords": [
+    "mcp",
+    "networking",
+    "communication"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Clinko",
+        "shortDescription": "Find people to talk to and stay in touch",
+        "developerName": "Clinko",
+        "websiteURL": "https://clinko.ai/",
+        "supportURL": "https://clinko.ai/terms",
+        "privacyPolicyURL": "https://clinko.ai/privacy",
+        "termsOfServiceURL": "https://clinko.ai/terms",
+        "composerIcon": "./assets/clinko.png",
+        "logo": "./assets/clinko.png"
+      }
+    }
+  }
+}
